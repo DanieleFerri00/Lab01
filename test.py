@@ -1,0 +1,1 @@
+print("Configurazione completata!")
