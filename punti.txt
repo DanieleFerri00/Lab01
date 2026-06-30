@@ -1,4 +1,9 @@
 Paolo 4
+Daniele 3
+Marco 3
 Lucia 1
 Mario 1
+Francesco 1
+Carlo 1
 Giuseppe 0
+Matteo 0
